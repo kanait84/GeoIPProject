@@ -60,7 +60,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
   
   
 
-https://user-images.githubusercontent.com/42266013/131638998-6dbffcd0-5218-4f7a-9f39-cb6c51123e76.mp4
+
+https://user-images.githubusercontent.com/42266013/131639633-8bed8c23-9ef2-4521-a7f5-060a8616950d.mp4
+
+
 
 
 
