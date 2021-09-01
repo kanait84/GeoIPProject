@@ -9,7 +9,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 <p align="center"><img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_7543ac406d0ebb6b9eff697cd0137720/ipgeolocation.png" alt="" /></p>
 
 
-<h1>Technologies been involved are: </h1>
+<h1>Technologies that have been involved are: </h1>
 <p>Angular</p>
 <p>NodeJs</p>
 <p>API from https://ipgeolocation.io/ <p>
