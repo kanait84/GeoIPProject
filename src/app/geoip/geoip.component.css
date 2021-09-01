@@ -1,0 +1,21 @@
+.btn-default{
+  background-color: #ffffff;
+  color: #686f7d;
+}
+.btn-default:focus{
+  box-shadow: none;
+}
+
+.table td, .table th{
+  vertical-align: middle;
+}
+
+.table {
+  font-size: 13px;
+  font-weight: bold; padding: 10px;
+  border-collapse: collapse; width: 55%; margin-left: 130px; margin-top: 30px; height: 174px;
+}
+a:hover{
+  text-decoration: none;
+}
+

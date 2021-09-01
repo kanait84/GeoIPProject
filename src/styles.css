@@ -1,1 +1,58 @@
 /* You can add global styles to this file, and also import other style files */
+html {
+  scroll-behavior: smooth;
+}
+
+body{
+  font-family: "Barlow",Arial,Helvetica,sans-serif;
+  font-weight: normal;
+  background-color: #f4f4f6;
+}
+
+.font-sm{
+  font-size: 12px;
+}
+.dropdown-item{
+  cursor: pointer;
+}
+.form-container{
+  background-color: #fff;
+  border: 2px solid #eeeeee;
+  padding: 15px;
+  border-radius: 15px;
+}
+h1,h2,h3,h4{
+  font-weight: 900;
+}
+.btn , .nav-item , label , .form-control{
+  font-weight: bold;
+}
+.btn{
+  border-radius: 25px;
+  height: 45px;
+  border: none;
+}
+.btn-bottom{
+  height: 80px;
+  border-top-right-radius: 0;
+  border-top-left-radius: 0;
+  width: 100%;
+  box-shadow: 0px 15px 12px 5px rgba(0, 0, 0, 0.05);
+}
+.btn-custom-o:hover{
+  background: #f8f8f8;
+  color: rgb(10, 93, 133) !important;
+  border: 2px solid rgba(10, 104, 144, 0.2);
+}
+.form-control{
+  border: 2px solid #ebf2f5;
+  height: 40px;
+  border-radius: 25px;
+  padding-left: 30px;
+  font-size: 14px;
+  display: inline-block;
+
+}
+.btn-secondary{
+  background-color: #2196f3;
+}
