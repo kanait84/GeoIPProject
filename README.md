@@ -52,7 +52,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
  
  
 
-<h4>Result - get the difference betweeen two IP address Locations</h4>
+<h4>Result - get the hours difference betweeen two IP address Locations</h4>
   
 ![run-angular-project](https://user-images.githubusercontent.com/42266013/131637316-27261804-2d3c-4bba-b0a3-cb937a315b37.JPG)
  
