@@ -11,7 +11,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 <h1>Technologies that have been involved are: </h1>
 <p>Angular</p>
-<p>NodeJs</p>
+<p>Node Packages</p>
 <p>API from https://ipgeolocation.io/ <p>
   
   
@@ -57,14 +57,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ![run-angular-project](https://user-images.githubusercontent.com/42266013/131637316-27261804-2d3c-4bba-b0a3-cb937a315b37.JPG)
  
 
-  
-  
-
 
 https://user-images.githubusercontent.com/42266013/131639633-8bed8c23-9ef2-4521-a7f5-060a8616950d.mp4
-
-
-
 
 
 
